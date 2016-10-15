@@ -15,24 +15,6 @@ import org.senydevpkg.utils.NetworkUtils;
 import butterknife.ButterKnife;
 
 /**
- * ━━━━ Code is far away from ━━━━━━
- * 　　  () 　　　  ()
- * 　　  ( ) 　　　( )
- * 　　  ( ) 　　　( )
- * 　　┏┛┻━━━┛┻┓
- * 　　┃　　　━　　　┃
- * 　　┃　┳┛　┗┳　┃
- * 　　┃　　　┻　　　┃
- * 　　┗━┓　　　┏━┛
- * 　　　　┃　　　┃
- * 　　　　┃　　　┗━━━┓
- * 　　　　┃　　　　　　　┣┓
- * 　　　　┃　　　　　　　┏┛
- * 　　　　┗┓┓┏━┳┓┏┛
- * 　　　　　┃┫┫　┃┫┫
- * 　　　　　┗┻┛　┗┻┛
- * ━━━━ bug with the XYY protecting━━━
- * <p>
  * Created by Seny on 2015/12/1.
  */
 public abstract class BaseActivity extends FragmentActivity {
